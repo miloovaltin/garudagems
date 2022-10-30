@@ -1,0 +1,16 @@
+{
+"name": "garudagems",
+"theme": "garuda gems",
+"version": "9.1.8",
+"description": "garuda gems สมัครสมาชิกเว็บคาสิโนเว็บตรง ระบบออโต้ รับเงินเครดิตฟรี",
+"keywords": [
+"garuda gems",
+"garuda gems เครดิตฟรี",
+"garuda gems ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/garudagems",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
